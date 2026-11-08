@@ -11,7 +11,7 @@
   "quality": "1080p",
   "baseUrl": "https://tvids.net/",
   "searchBaseUrl": "https://tvids.net/search?q=%s",
-  "scriptUrl": "https://raw.githubusercontent.com/THE0TH3RS1D3/Tvsoratest/refs/heads/main/tvids.js",
+  "scriptUrl": "https://raw.githubusercontent.com/xcxcdxdvx-png/Tvidssoraddon/refs/heads/main/tvids.js",
   "asyncJS": true,
   "softsub": false,
   "type": "shows/movies"
