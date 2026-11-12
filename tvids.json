@@ -1,0 +1,18 @@
+{
+  "sourceName": "TVids",
+  "iconUrl": "https://www.tvids.net/favicon.png",
+  "author": {
+    "name": "Sora Modules",
+    "icon": "https://www.tvids.net/favicon.png"
+  },
+  "version": "1.2.1",
+  "language": "English",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://tvids.net/",
+  "searchBaseUrl": "https://tvids.net/search?q=%s",
+  "scriptUrl": "https://raw.githubusercontent.com/xcxcdxdvx-png/Tvidssoraddon/refs/heads/main/tvids.js",
+  "asyncJS": true,
+  "softsub": true,
+  "type": "shows/movies"
+}
